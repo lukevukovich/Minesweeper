@@ -23,7 +23,7 @@ import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
 
-
+//Controls bulk of program
 public class Controller {
     private int width;
     private int height;
